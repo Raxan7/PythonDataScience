@@ -1,0 +1,1 @@
+This is how a file is created and written into using Python
